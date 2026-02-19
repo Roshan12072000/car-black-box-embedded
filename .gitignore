@@ -1,0 +1,18 @@
+# Build folders
+build/
+dist/
+
+# MPLAB / NetBeans project files
+nbproject/private/
+nbproject/Makefile-*.mk
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.elf
+*.hex
+
+# Logs
+*.log
